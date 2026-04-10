@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile/AngryRatLabs-cut-image.png" alt="Angry Rat Labs" width="200">
+<img src="AngryRatLabs-cut-image.png" alt="Angry Rat Labs" width="200">
 
 # Angry Rat Labs
 
